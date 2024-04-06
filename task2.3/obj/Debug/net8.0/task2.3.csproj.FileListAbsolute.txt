@@ -12,3 +12,4 @@ D:\GBPr\lesson1\task2.3\obj\Debug\net8.0\refint\task2.3.dll
 D:\GBPr\lesson1\task2.3\obj\Debug\net8.0\task2.3.pdb
 D:\GBPr\lesson1\task2.3\obj\Debug\net8.0\task2.3.genruntimeconfig.cache
 D:\GBPr\lesson1\task2.3\obj\Debug\net8.0\ref\task2.3.dll
+D:\GBPr\lesson1\task2.3\obj\Debug\net8.0\task2.3.sourcelink.json
